@@ -1,8 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [100MB](./100MB)
-- [archive_20260506_180313](./archive_20260506_180313)
-- [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
